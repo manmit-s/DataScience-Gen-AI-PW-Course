@@ -21,7 +21,7 @@ If you're reviewing my course submissions:
 - Pandas 📊
 - NumPy 🔢
 - Generative AI Models 🤖
-- Jupyter Notebook 📒
+- Jupyter Notebook 📒 and many more.....
 
 ## 📧 Contact Me
 - **GitHub:** [Manmit's GitHub](https://github.com/manmit-s)  
