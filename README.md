@@ -25,6 +25,6 @@ If you're reviewing my course submissions:
 
 ## 📧 Contact Me
 - **GitHub:** [Manmit's GitHub](https://github.com/manmit-s)  
-- **Email:** [manmitsamal84@gmail.com](mailto:manmitsamal84@gmail.com)
+- **Email:** [work.manmit.samal@zohomail.in](mailto:work.manmit.samal@zohomail.in)
 
 ---
